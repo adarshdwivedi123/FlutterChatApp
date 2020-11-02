@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483611760936",
+    "firebase_url": "https://chat-app-faf95.firebaseio.com",
+    "project_id": "chat-app-faf95",
+    "storage_bucket": "chat-app-faf95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483611760936:android:a58a9a6178141c73de581d",
+        "android_client_info": {
+          "package_name": "co.appadarsh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483611760936-pm4h4jircpuo989mlk1lvaijltf3ia8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqdULcBHSaxpIpIl8MqflCDgXayWZzKSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483611760936-pm4h4jircpuo989mlk1lvaijltf3ia8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
